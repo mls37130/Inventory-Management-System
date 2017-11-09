@@ -1,0 +1,47 @@
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddItem.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Form1.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.OrderForm.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.LoginForm.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ManagerLogin.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.CreateUserForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddItem.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.CreateUserForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.LoginForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ManagerLogin.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.OrderForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.MainForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.EditItemForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ViewInventoryFormcs.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddItem.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.CreateUserForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.EditItemForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.MainForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.LoginForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ManagerLogin.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.OrderForm.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ViewInventoryFormcs.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch - Copy\Example4-Megan-s-Branch\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
