@@ -26,11 +26,16 @@ namespace InventoryManager
         {         
         }
 
-        public Item(string i, string n, string c)
+        public Item(string i, string n, string c, double w, double r, int maxq, int minq, DateTime ad)
         {
             Id = i;
             Name = n;
             Category = c;
+            WholesalePrice = w;
+            MaxQuantity = maxq;
+            MinQuatitiy = minq;
+            AddedDate = ad;
+
         }
 
         ////public CreateItem()

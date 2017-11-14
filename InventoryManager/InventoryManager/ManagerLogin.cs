@@ -30,5 +30,14 @@ namespace InventoryManager
                 mgr.Show();
             }
         }
+
+        private void backButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var managerForm = new ManagerLogin();
+            managerForm.Closed += (s, args) => this.Close();
+            LoginForm lgin = new LoginForm();
+            lgin.Show();
+        }
     }
 }

@@ -13,3 +13,8 @@ C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\Inve
 C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.LoginForm.resources
 C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ManagerLogin.resources
 C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.CreateUserForm.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ItemDisplayForm.resources
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\EntityFramework.dll
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\EntityFramework.xml
+C:\Users\Chase Scott\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\EntityFramework.SqlServer.xml

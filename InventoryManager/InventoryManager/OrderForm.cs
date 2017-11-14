@@ -16,5 +16,7 @@ namespace InventoryManager
         {
             InitializeComponent();
         }
+
+        //use image list to populate from a treeview
     }
 }

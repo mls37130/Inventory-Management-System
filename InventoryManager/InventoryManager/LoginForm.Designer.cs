@@ -42,14 +42,14 @@
             // 
             // userTextBox
             // 
-            this.userTextBox.Location = new System.Drawing.Point(153, 82);
+            this.userTextBox.Location = new System.Drawing.Point(264, 135);
             this.userTextBox.Name = "userTextBox";
             this.userTextBox.Size = new System.Drawing.Size(100, 26);
             this.userTextBox.TabIndex = 0;
             // 
             // passwordTextBox
             // 
-            this.passwordTextBox.Location = new System.Drawing.Point(153, 136);
+            this.passwordTextBox.Location = new System.Drawing.Point(264, 189);
             this.passwordTextBox.Name = "passwordTextBox";
             this.passwordTextBox.Size = new System.Drawing.Size(100, 26);
             this.passwordTextBox.TabIndex = 1;
@@ -57,7 +57,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(41, 82);
+            this.label1.Location = new System.Drawing.Point(152, 135);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 20);
             this.label1.TabIndex = 2;
@@ -66,7 +66,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(52, 136);
+            this.label2.Location = new System.Drawing.Point(163, 189);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(82, 20);
             this.label2.TabIndex = 3;
@@ -75,7 +75,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(44, 40);
+            this.label3.Location = new System.Drawing.Point(155, 93);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(90, 20);
             this.label3.TabIndex = 4;
@@ -83,7 +83,7 @@
             // 
             // loginButton
             // 
-            this.loginButton.Location = new System.Drawing.Point(56, 178);
+            this.loginButton.Location = new System.Drawing.Point(167, 231);
             this.loginButton.Name = "loginButton";
             this.loginButton.Size = new System.Drawing.Size(163, 33);
             this.loginButton.TabIndex = 8;
@@ -93,7 +93,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(45, 276);
+            this.button1.Location = new System.Drawing.Point(156, 329);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(185, 29);
             this.button1.TabIndex = 5;
@@ -104,7 +104,7 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.createUserLinkLabel);
-            this.groupBox1.Location = new System.Drawing.Point(12, 8);
+            this.groupBox1.Location = new System.Drawing.Point(123, 61);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(256, 250);
             this.groupBox1.TabIndex = 9;
@@ -126,7 +126,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(302, 423);
+            this.ClientSize = new System.Drawing.Size(546, 471);
             this.Controls.Add(this.loginButton);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
